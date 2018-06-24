@@ -1,0 +1,22 @@
+﻿@model MyFirstMVCApp.Models.TimePerson;
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<link rel="stylesheet" href="~/StyleSheet.css" type=" text/css" />
+
+@ViewData["Home Page"]
+
+<div>
+    <h2> Time People of the Year</h2>
+
+    <form method="post">
+        <label for="startYear">Start Year</label>
+        <input maxLength="4" name="startYear" />
+
+        <label for="endYear">End Year</label>
+        <input maxLength="4" name="endYear" />
+        <button type="Submit">Search</button>
+    </form>
+</div>

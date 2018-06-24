@@ -1,0 +1,39 @@
+﻿@model List<MyFirstMVCApp.Models.TimePerson>;
+
+@{
+    ViewData["Title"] = "Results";
+}
+
+<link rel="stylesheet" href="~/StyleSheet.css" type="text/css" />
+
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Year</th>
+        <th>Honor</th>
+        <th>Country</th>
+        <th>Birth Year</th>
+        <th>Death Year</th>
+        <th>Title</th>
+        <th>Country</th>
+        <th>Context</th>
+    </tr>
+
+    @foreach (var person in Model)
+    {
+
+        <tr>
+            <th>@person.Name</th>
+            <th>@person.Year</th>
+            <th>@person.Honor</th>
+            <th>@person.Country</th>
+            <th>@person.BirthYear</th>
+            <th>@person.DeathYear</th>
+            <th>@person.Title</th>
+            <th>@person.Country</th>
+            <th>@person.Context</th>
+        </tr>
+    }
+
+
+</table>

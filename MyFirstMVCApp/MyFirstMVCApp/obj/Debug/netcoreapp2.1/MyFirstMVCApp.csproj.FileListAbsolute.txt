@@ -1,0 +1,14 @@
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab11-My-First-MVC-app\MyFirstMVCApp\MyFirstMVCApp\bin\Debug\netcoreapp2.1\MyFirstMVCApp.deps.json
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab11-My-First-MVC-app\MyFirstMVCApp\MyFirstMVCApp\bin\Debug\netcoreapp2.1\MyFirstMVCApp.runtimeconfig.json
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab11-My-First-MVC-app\MyFirstMVCApp\MyFirstMVCApp\bin\Debug\netcoreapp2.1\MyFirstMVCApp.runtimeconfig.dev.json
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab11-My-First-MVC-app\MyFirstMVCApp\MyFirstMVCApp\bin\Debug\netcoreapp2.1\MyFirstMVCApp.dll
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab11-My-First-MVC-app\MyFirstMVCApp\MyFirstMVCApp\bin\Debug\netcoreapp2.1\MyFirstMVCApp.pdb
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab11-My-First-MVC-app\MyFirstMVCApp\MyFirstMVCApp\obj\Debug\netcoreapp2.1\MyFirstMVCApp.csprojAssemblyReference.cache
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab11-My-First-MVC-app\MyFirstMVCApp\MyFirstMVCApp\obj\Debug\netcoreapp2.1\MyFirstMVCApp.csproj.CoreCompileInputs.cache
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab11-My-First-MVC-app\MyFirstMVCApp\MyFirstMVCApp\obj\Debug\netcoreapp2.1\MyFirstMVCApp.RazorAssemblyInfo.cache
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab11-My-First-MVC-app\MyFirstMVCApp\MyFirstMVCApp\obj\Debug\netcoreapp2.1\MyFirstMVCApp.RazorAssemblyInfo.cs
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab11-My-First-MVC-app\MyFirstMVCApp\MyFirstMVCApp\obj\Debug\netcoreapp2.1\MyFirstMVCApp.AssemblyInfoInputs.cache
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab11-My-First-MVC-app\MyFirstMVCApp\MyFirstMVCApp\obj\Debug\netcoreapp2.1\MyFirstMVCApp.AssemblyInfo.cs
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab11-My-First-MVC-app\MyFirstMVCApp\MyFirstMVCApp\obj\Debug\netcoreapp2.1\MyFirstMVCApp.RazorTargetAssemblyInfo.cache
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab11-My-First-MVC-app\MyFirstMVCApp\MyFirstMVCApp\obj\Debug\netcoreapp2.1\MyFirstMVCApp.dll
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab11-My-First-MVC-app\MyFirstMVCApp\MyFirstMVCApp\obj\Debug\netcoreapp2.1\MyFirstMVCApp.pdb
